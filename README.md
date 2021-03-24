@@ -73,6 +73,8 @@ Application window has three main parts: table for setting radio towers paramete
 
 For using the application necessity to install components from section [Used technologies](#Used-technologies). First of all install Python interpreter, and after that using package manager *Pip* to install listed packages. In case using versions of packages that differ from the proposed, correct work of the application is not ensured. After that you need to download SRTM data for your region from https://www2.jpl.nasa.gov/srtm/ or other sources and save it in dirrectory "hgt".
 
+        pip install -r requirements.txt
+
 
 ## License 
 Licensed under the [MIT](LICENSE.txt) license.	
