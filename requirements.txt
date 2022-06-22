@@ -1,4 +1,4 @@
-numpy==1.15.0
+numpy==1.22.0
 matplotlib==2.2.2
 PyQt5==5.9
 openpyxl==2.4.8
